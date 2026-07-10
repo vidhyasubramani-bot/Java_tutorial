@@ -1,0 +1,26 @@
+package day2;
+
+import java.util.*;
+public class Bitwise{
+    public static void main(String[]args){
+        Scanner input=new Scanner(System.in);
+        int a=input.nextInt();
+        int b=input.nextInt();
+        System.out.println("enter the AND value:");
+        System.out.println(a&b);
+        System.out.println("enter the OR value:");
+        System.out.println(a|b);
+        System.out.println("enter the XOR value:");
+        System.out.println(a^b);
+        System.out.println("enter the Left shift value:");
+        System.out.println(a<<b);
+        System.out.println("enter the Right shift value:");
+        System.out.println(a>>b);
+
+
+
+
+
+
+    }
+}
