@@ -1,0 +1,26 @@
+package day3;
+/*import java.util.*;
+public class ternary {
+    public static void main(String[]args){
+        Scanner input=new Scanner(System.in);
+        System.out.println("enter a value:");
+        int a=input.nextInt();
+        String b=(a>=18)? "Adult":"Minor";
+        System.out.println(b);
+
+    }
+
+}*/
+
+import java.util.*;
+public class ternary{
+    public static void main(String[] args){
+        Scanner input=new Scanner(System.in);
+        int a=input.nextInt();
+        String b=(a%2==0)?"Even":"Odd";
+        System.out.println(b);
+
+
+    }
+}
+
