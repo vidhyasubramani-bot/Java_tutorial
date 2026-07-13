@@ -2,72 +2,83 @@
 
 ## 📅 Day 4 Topics Covered
 
-Today, I focused on solving number-based problems and strengthening my understanding of loops and logical thinking in Java.
+Today, I focused on strengthening my problem-solving skills by practicing loops and solving LeetCode problems.
 
-## 📚 Topics Learned
+## 📚 Concepts Learned
 
-- 🔹 Number Crunching
-- 🔹 do-while Loop
-- 🔹 Sum of Digits (Add Digits)
-- 🔹 Number of Steps to Reduce a Number to Zero
-- 🔹 Palindrome Number
-- 🔹 Power of Two
-- 🔹 Power of Three
+### 🔹 Number Crunching
+- Solved numerical programming problems
+- Worked with arithmetic operations
+- Improved logical thinking and mathematical problem-solving
+
+### 🔹 do-while Loop
+- Learned the syntax and working of the `do-while` loop
+- Understood the difference between `while` and `do-while`
+- Practiced programs where the loop executes at least once
+
+## 💻 LeetCode Problems Solved
+
+### ✅ Add Digits
+- Repeatedly added the digits of a number until a single digit remained.
+- Learned digit extraction using `%` and `/` operators.
+
+### ✅ Number of Steps to Reduce a Number to Zero
+- Used loops and conditional statements to count the number of operations required to reduce a number to zero.
+- Strengthened understanding of even/odd conditions.
+
+### ✅ Palindrome Number
+- Reversed a number and compared it with the original value.
+- Improved knowledge of loops and number manipulation.
+
+### ✅ Power of Two
+- Determined whether a number is a power of two using logical approaches.
+- Practiced division and bitwise thinking.
+
+### ✅ Power of Three
+- Checked whether a number is a power of three using iterative logic.
+- Enhanced problem-solving skills with repeated division.
+
+## 🚀 Skills Gained
+
+- ✔️ Improved logical thinking
+- ✔️ Stronger understanding of loops
+- ✔️ Better number manipulation techniques
+- ✔️ Hands-on experience solving LeetCode problems
+- ✔️ Improved debugging and coding confidence
+
+## 🛠️ Technologies Used
+
+- Java
+- VS Code
+- JDK 17
+- LeetCode
+- Git & GitHub
+
+## 📂 Repository Structure
+
+```
+Day4/
+├── NumberCrunching.java
+├── DoWhileLoop.java
+├── AddDigits.java
+├── NumberOfStepsToReduceToZero.java
+├── PalindromeNumber.java
+├── PowerOfTwo.java
+└── PowerOfThree.java
+```
+
+## 🎯 Learning Outcome
+
+Today's practice helped me understand how loops and number-based algorithms work together to solve real coding interview questions. Solving LeetCode problems improved my coding speed, logical reasoning, and confidence in writing efficient Java programs.
+
+## 🚀 Next Goal
+
+- Arrays
+- String Manipulation
+- Methods (Functions)
+- Pattern Programs
+- More LeetCode Easy Problems
 
 ---
 
-## 💻 Concepts Practiced
-
-### 🔸 Number Crunching
-Solved numerical and logical problems using Java by applying conditions, loops, and arithmetic operators.
-
-### 🔸 do-while Loop
-- Executed a block of code at least once.
-- Understood the difference between `while` and `do-while`.
-
-### 🔸 Add Digits
-- Extracted digits using the modulus (`%`) operator.
-- Calculated the sum of all digits in a number.
-
-### 🔸 Number of Steps to Reduce a Number to Zero
-- Used loops and conditions.
-- If the number is even, divide it by 2.
-- If the number is odd, subtract 1.
-- Counted the total number of steps until the number became 0.
-
-### 🔸 Palindrome Number
-- Reversed a number.
-- Compared the reversed number with the original number to determine whether it is a palindrome.
-
-### 🔸 Power of Two
-- Checked whether a given number is a power of 2 using logical conditions and loops.
-
-### 🔸 Power of Three
-- Determined whether a number is a power of 3 by repeatedly dividing it by 3.
-
----
-
-## 💡 Practice Problems Solved
-
-- ✅ Sum of Digits
-- ✅ Reverse a Number
-- ✅ Palindrome Number
-- ✅ Number of Steps to Reduce a Number to Zero
-- ✅ Power of Two
-- ✅ Power of Three
-- ✅ Number Crunching Exercises
-- ✅ do-while Loop Programs
-
----
-
-## 🎯 Learning Outcomes
-
-By completing today's practice, I learned how to:
-
-- Write efficient programs using the `do-while` loop.
-- Solve number-based coding problems.
-- Improve logical thinking and debugging skills.
-- Work with arithmetic operations and loops together.
-- Understand the logic behind common coding interview problems
-
-⭐ Every day of coding improves my problem-solving ability. This repository documents my Java learning journey and daily practice.
+⭐ Thank you for visiting my **Java Learning Journey**! Feel free to explore the code, share your feedback, and follow my progress as I continue learning Java step by step.
